@@ -24,3 +24,8 @@ else:
             print("Player 2 Wins!!")
         elif(p2== " Paper"):
             print("Player 1 Wins!!")
+
+# Enter (Rock/Paper/Scissors):Paper
+# Player 1:  Paper
+# Player 2:  Rock
+# Player 1 Wins!!
